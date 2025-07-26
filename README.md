@@ -4,6 +4,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://snipboard.io/ouiB48.jpg" alt="project-screenshot" width="400" height="400/">
-
 <img src="https://snipboard.io/WHsd7k.jpg" alt="project-screenshot" width="400" height="400/">
